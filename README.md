@@ -2,6 +2,7 @@
 
 
 # 目录
+* [分布式id生成时的一些改进](/article/snowflake.md)
 * [一些定位问题的命令](/article/somecommand.md)
 * [思考JVM中分配担保的意义](https://gist.github.com/arrayadd/0ff0a468f1e201422d5264ac350f9ab1)
 * [你需要一个优雅的配置文件](https://gist.github.com/arrayadd/4f2508402de6096b2ef98d0217165092)

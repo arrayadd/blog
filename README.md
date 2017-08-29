@@ -2,6 +2,8 @@
 
 
 # 目录
+
+* [关于分库分表思路的工作总结（1）](/article/fenbiao1.md)
 * [分布式id生成时的一些改进](/article/snowflake.md)
 * [一些定位问题的命令](/article/somecommand.md)
 * [思考JVM中分配担保的意义](https://gist.github.com/arrayadd/0ff0a468f1e201422d5264ac350f9ab1)

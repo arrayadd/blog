@@ -2,6 +2,9 @@
 
 
 # 目录
+
+
+* [关于分库分表处理思路的工作总结（3）](/article/fenbiao3.md)
 * [关于分库分表处理思路的工作总结（2）](/article/fenbiao2.md)
 * [关于分库分表处理思路的工作总结（1）](/article/fenbiao1.md)
 * [分布式id生成时的一些改进](/article/snowflake.md)

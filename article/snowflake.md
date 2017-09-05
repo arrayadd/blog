@@ -37,6 +37,8 @@
 这样对于非partion key的查询，也只需要一步就会到位，性能，资源上都会大大优化。
 
 [java demo示例](/article/idc.java)
+demo生成规则：
+![](http://7xpnzc.com1.z0.glb.clouddn.com/222.png)
 
 
 

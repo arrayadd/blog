@@ -27,7 +27,7 @@
 * [又被动了？](https://gist.github.com/arrayadd/c90cb4a8523538ec0125a454dc458295)
 * [Linux配置文件被人动了](https://gist.github.com/arrayadd/ac5b7612dc0423b6ad5aad540b1ecfa1)
 * [curl记忆](https://gist.github.com/arrayadd/ee5d008e45e4f15886a5194d51a65251)
-* [Kib,bps](https://gist.github.com/arrayadd/8a4740c8f8cd4a9a5751f59bc420a1cc)
+* [容易疏忽的单位Kib,bps](https://gist.github.com/arrayadd/8a4740c8f8cd4a9a5751f59bc420a1cc)
 
 
 

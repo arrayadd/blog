@@ -3,7 +3,7 @@
 
 # 目录
 
-
+* [用户认证鉴权系统改造梳理（1）](/article/userauth1.md)
 * [关于分库分表处理思路的工作总结（3）](/article/fenbiao3.md)
 * [关于分库分表处理思路的工作总结（2）](/article/fenbiao2.md)
 * [关于分库分表处理思路的工作总结（1）](/article/fenbiao1.md)

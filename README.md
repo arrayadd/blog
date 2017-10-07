@@ -6,9 +6,9 @@
 
 |工作杂记|生活扯淡|
 |:---|:---|
-| [用户认证鉴权系统改造梳理（2）](/article/userauth2.md)|[你想多了](/life/thinkmore.md)|
-| [用户认证鉴权系统改造梳理（1）](/article/userauth1.md)||
-| [读写分离思想在JDK中的实现及缺点](/article/copyonwrite.md)||
+| [用户认证鉴权系统改造梳理（2）](/article/userauth2.md)||
+| [用户认证鉴权系统改造梳理（1）](/article/userauth1.md)|[候车时候的一些胡思乱想](/life/holiday)|
+| [读写分离思想在JDK中的实现及缺点](/article/copyonwrite.md)|[你想多了](/life/thinkmore.md)|
 | [关于分库分表处理思路的工作总结（3）](/article/fenbiao3.md)||
 | [关于分库分表处理思路的工作总结（2）](/article/fenbiao2.md)||
 | [关于分库分表处理思路的工作总结（1）](/article/fenbiao1.md)||
